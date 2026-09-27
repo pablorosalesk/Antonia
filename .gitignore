@@ -1,0 +1,7 @@
+# Datos clínicos identificables del residente: NO versionar en un repositorio público.
+entregables/
+fuente/img/
+fuente/informe_vgi.py
+fuente/revision.py
+*.pdf
+*.docx
