@@ -5,3 +5,4 @@ fuente/informe_vgi.py
 fuente/revision.py
 *.pdf
 *.docx
+__pycache__/
